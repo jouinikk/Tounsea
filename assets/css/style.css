@@ -379,7 +379,7 @@ label {
 	width:100%;
 	top:0;
 	position:fixed;
-	background-image:url(http://unsplash.it/1600/600?random=1);
+	background-image:url("../img/diving.jpg");
 	background-position:center center;
 	background-repeat:no-repeat;
 	-webkit-background-size: cover;
@@ -396,6 +396,13 @@ label {
 	text-transform:uppercase;
 	font-weight:bold;
 }
+
+.logo-img {
+	margin-top: 25px;
+    max-height: 30px; /* Adjust height */
+    width: auto; /* Maintain aspect ratio */
+}
+
 .navbar-inverse .navbar-brand:hover,.navbar-inverse .navbar-brand:focus {
 	color:#000;
 }
