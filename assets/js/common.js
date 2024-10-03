@@ -61,15 +61,15 @@ function scrollArray(e, t, n, o) {
     }
 }
 
-function wheel(e) {
-    initdone || init();
-    var t = e.target,
-        n = overflowingAncestor(t);
-    if (!n || e.defaultPrevented || isNodeName(activeElement, "embed") || isNodeName(t, "embed") && /\.pdf/i.test(t.src)) return !0;
-    var o = e.wheelDeltaX || 0,
-        r = e.wheelDeltaY || 0;
-    o || r || (r = e.wheelDelta || 0), Math.abs(o) > 1.2 && (o *= stepsize / 120), Math.abs(r) > 1.2 && (r *= stepsize / 120), scrollArray(n, -o, -r), e.preventDefault()
-}
+// function wheel(e) {
+//     initdone || init();
+//     var t = e.target,
+//         n = overflowingAncestor(t);
+//     if (!n || e.defaultPrevented || isNodeName(activeElement, "embed") || isNodeName(t, "embed") && /\.pdf/i.test(t.src)) return !0;
+//     var o = e.wheelDeltaX || 0,
+//         r = e.wheelDeltaY || 0;
+//     o || r || (r = e.wheelDelta || 0), Math.abs(o) > 1.2 && (o *= stepsize / 120), Math.abs(r) > 1.2 && (r *= stepsize / 120), scrollArray(n, -o, -r), e.preventDefault()
+// }
 
 function keydown(e) {
     var t = e.target,
@@ -212,7 +212,7 @@ if (!jQuery(".enable_smoothscroll").length && jQuery(window).width() > 1024) {
                 window.setTimeout(e, n || 1e3 / 60)
             }
         }();
-    addEvent("mousedown", mousedown), addEvent("mousewheel", wheel), addEvent("load", init)
+    addEvent("mousedown", mousedown),  addEvent("load", init)/*addEvent("mousewheel", wheel)*/
 }
 
 /*! WOW - v1.1.2 - 2015-04-07
