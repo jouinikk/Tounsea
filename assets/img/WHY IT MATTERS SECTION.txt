@@ -1,0 +1,35 @@
+WHY IT MATTERS SECTION
+Card 1: Ocean Pollution - "80% of Tunisia's marine pollution comes from land-based activities."
+Card 2: Biodiversity Loss - "Marine habitats are disappearing, threatening countless species."
+Card 3: Sustainable Fishing - "Overfishing depletes fish stocks and harms ecosystems."
+Card 4: Community Impact - "Healthy oceans mean thriving communities and economies."
+Each card should have a “Learn More” button.
+
+
+Frequently Asked Questions (FAQ) Section:
+Q1: What is sea pollution?
+A: "Sea pollution refers to harmful substances like plastic, chemicals, and waste entering our oceans, causing damage to marine life and ecosystems."
+Q2: How can I help?
+A: "You can participate in our fundraisers, join a beach cleanup, donate, or raise awareness about marine conservation."
+Q3: What’s in it for me?
+A: "By helping protect our oceans, you’re contributing to a healthier planet, preserving biodiversity, and securing cleaner waters for future generations."
+Q4: How does Blue Horizons use donations?
+A: "We use donations for clean-up events, awareness campaigns, and establishing marine conservation zones."
+Q5: Can I volunteer?
+A: "Yes! We have many volunteer opportunities, from beach cleanups to educational programs."
+
+ "Join the Movement Today" Call-to-Action Section:
+Text: Something inspiring like: “Together, we can create a future where Tunisia’s oceans are cleaner and more vibrant. Every action counts.”
+Call-to-Action Buttons:
+Button 1: “Donate Now”
+Button 2: “Volunteer”
+Button 3: “Become a Member”
+Visuals: You can include an image of a group of volunteers or a symbolic ocean scene.
+
+ Previous Events and Actions Section:
+Title: "Our Impact So Far"
+Layout: A grid or timeline format showcasing past events with visuals and brief descriptions.
+Event 1: 2023 Beach Cleanup Marathon - "Over 500 volunteers removed 2 tons of trash from Tunisia’s coastline."
+
+
+
